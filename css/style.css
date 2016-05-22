@@ -1,9 +1,13 @@
 @charset "UTF-8";
 /*
+<<<<<<< HEAD
  * jQuery File Upload Plugin CSS Example 1.1.1
+=======
+ * jQuery File Upload Plugin CSS Example
+>>>>>>> b8a26fbd847be6ebb205a54bb4652ef2995ffe53
  * https://github.com/blueimp/jQuery-File-Upload
  *
- * Copyright 2012, Sebastian Tschan
+ * Copyright 2013, Sebastian Tschan
  * https://blueimp.net
  *
  * Licensed under the MIT license:
@@ -11,6 +15,7 @@
  */
 
 body {
+<<<<<<< HEAD
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 13px;
   line-height: 18px;
@@ -84,4 +89,7 @@ td.delete {
     width: auto;
     padding: 10px;
   }
+=======
+  padding-top: 60px;
+>>>>>>> b8a26fbd847be6ebb205a54bb4652ef2995ffe53
 }
